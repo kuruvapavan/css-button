@@ -1,0 +1,12 @@
+body{
+    background-color: white
+}
+button{
+    margin-top: 2rem;
+    margin-right: 2rem;
+    width: 100px;
+    height: 50px;
+    background-color: #c4302b;
+    border-radius: 0.5rem;
+    color: white;
+}
